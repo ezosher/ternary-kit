@@ -10,9 +10,7 @@ Ternary kit is a Conditions Pack for Oxygen Builder in Different Categories see 
 
 To install the plugin just `Download` the repo from the far right and choose the `zip` option. then upload to your wordpress website
 
-```bash
-picture
-```
+![](https://i.imgur.com/rraBFV7.png)
 
 ### 1. Condition: Mobile Detect
 

@@ -5,6 +5,7 @@ Ternary kit is a Conditions Pack for Oxygen Builder in Different Categories see 
 ## Condition List
 
 - Mobile Detection 
+- More to come...
 
 ## Installation
 

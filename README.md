@@ -19,7 +19,7 @@ This condition is based on the popular lightweight library [PHP Mobile Detect](h
 ## Example
 ![](https://i.imgur.com/O4i2BrP.png)
 
-in this scenario I have and Title with a condition that checks if the device a user is on is an `Android`. if the condition is `true` the element will show to the user only on Android.
+in this scenario I have a Title with a condition that checks if the device a user is on is an `Android`. if the condition is `true` the element will show to the user only on Android.
 
 #### Available operators 
 

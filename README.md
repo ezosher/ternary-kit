@@ -39,7 +39,7 @@ iOS # Checks if iOS | Returns true/false
 
 ⚠️ Please note using `iOS` option sometimes conflicts with other iOS devices and can return `true` for tablet or other iOS devices
 
-💡 **Conditions are not update in the Builder** please open a new tab and check for results. the conditions is made on the server so every change you make you must refresh your browser 
+💡 **Conditions are not updating in the Builder** please open a new tab and check for results. the conditions is made on the server so every change you make you must refresh your browser 
 
 ### 2. Condition [ more to come... ]
 

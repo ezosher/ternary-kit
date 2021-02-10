@@ -37,12 +37,11 @@ Android # Checks if Android | Returns true/false
 iOS # Checks if iOS | Returns true/false
 ```
 
-**using `iOS` option sometimes conflict with other iOS Devices and can return `true` for tablet or other iOS devices**
+⚠️ Please note using `iOS` option sometimes conflicts with other iOS devices and can return `true` for tablet or other iOS devices
 
-## 2. More Condition Ideas to come
+💡 **Conditions are not update in the Builder** please open a new tab and check for results. the conditions is made on the server so every change you make you must refresh your browser 
 
-
-
+### 2. Condition [ more to come... ]
 
 ## Contributing
 if you have any ideas for conditions please let me know.

@@ -25,7 +25,7 @@ in the mean time all you need to update is to download the `zip` file upload to 
 
 This condition is based on the popular lightweight library [PHP Mobile Detect](http://mobiledetect.net/). the condition lets you check if a `User-Agent` is on Mobile, Desktop or Specific Device like Android and iOS. When Return value is `true` element will show
 
-⚠️ **Quick note**: Device detection in not 100% accurate in all scenarios. in some cases `browser-cache` can alter the results, but in most cases it works fine. see [Dealing with cache](#dealing-with-cache-my-anchor) section for solutions.
+⚠️ **Quick note**: Device detection in not 100% accurate in all scenarios. in some cases `browser-cache` can alter the results, but in most cases it works fine. see [Dealing with cache](#dealing-with-cache) section for solutions.
 
 ## Example
 ![](https://i.imgur.com/O4i2BrP.png)

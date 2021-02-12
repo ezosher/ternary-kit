@@ -25,7 +25,7 @@ in the mean time all you need to update is to download the `zip` file upload to 
 
 This condition is based on the popular lightweight library [PHP Mobile Detect](http://mobiledetect.net/). the condition lets you check if a `User-Agent` is on Mobile, Desktop or Specific Device like Android and iOS. When Return value is `true` element will show
 
-⚠️ **Quick note**: Device detection in not 100% accurate in all scenario. in some cases `browser-cache` can alter the results, but in most cases it works fine. see [Dealing with cache](#my-anchor) section for solutions.
+⚠️ **Quick note**: Device detection in not 100% accurate in all scenarios. in some cases `browser-cache` can alter the results, but in most cases it works fine. see [Dealing with cache](#dealing-with-cache-my-anchor) section for solutions.
 
 ## Example
 ![](https://i.imgur.com/O4i2BrP.png)
@@ -52,7 +52,7 @@ iOS # Checks if iOS / Returns true/false
 
 💡 **Conditions are not updating in the Builder** please open a new tab and check for results. the conditions are made on the server so every change you make you must refresh your browser 
 
-## Dealing with Cache {#my-anchor}
+## Dealing with Cache
  In some cases when we use a caching plugin like `wp-rocket` etc, or either browser Cache the behavior of the device detection can change and not work as expected. in order to overcome this issue we can do 2 things either:
 
  1. Disable `mobile cache` in our Caching plugin - every plugin deal with this differently [for wp-rocket](https://docs.wp-rocket.me/article/708-mobile-caching) this is the article
